@@ -2,5 +2,6 @@
     xmlns:mvc="sap.ui.core.mvc"
     xmlns="sap.m">
     <Page id="page" title="Suman Fiori App">
+    <Text text="New Suman Message" />
     </Page>
 </mvc:View>
