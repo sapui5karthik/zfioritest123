@@ -3,6 +3,6 @@
     xmlns="sap.m">
     <Page id="page" title="Suman Fiori App">
     <Text text="New Suman Message" />
-    <Text text="10:20 29/june/2023" />
+    <Text text="10:20 29/june/2023." />
     </Page>
 </mvc:View>
